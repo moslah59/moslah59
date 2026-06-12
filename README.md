@@ -15,7 +15,7 @@ Here’s what I bring to the table:
 
 <div align="left">
    <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" height="40" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
